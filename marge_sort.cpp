@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+//WORK IS STILL IN PROGRESS
 
 int merge_sort(const int *arr, const int length){
     int halfLen = (0 + length-1) / 2;
